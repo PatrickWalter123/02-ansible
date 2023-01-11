@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/git_repo/02-ansible/one-server","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
